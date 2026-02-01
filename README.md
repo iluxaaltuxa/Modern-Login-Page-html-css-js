@@ -13,8 +13,8 @@ A modern and responsive login form built with HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript (Vanilla)
 
-🌐 **Live Demo:**  
-https://твой-ник.github.io/modern-login-form/
+## 🌐 **Live Demo:**  
+https://iluxaaltuxa.github.io/Modern-Login-Page-html-css-js/
 
 ## 🔹 Author
 Montana
